@@ -1,2 +1,10 @@
+<<<<<<< Updated upstream
 Delhi
 Chennai
+=======
+Bangalore
+Delhi
+Vicky
+Indra
+Vikas
+>>>>>>> Stashed changes
